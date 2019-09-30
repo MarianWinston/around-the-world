@@ -1,9 +1,9 @@
 {
-  "name": "ets-template-node-react",
+  "name": "around-the-world",
   "version": "1.0.0",
-  "description": "Boilerplate code for writing node.js and react",
+  "description": "A leaderboards app for multiplayer games",
   "main": "lib/server/index.js",
-  "author": "Harry Fitzgerald <harry.f@elanco.com>",
+  "author": "Marian Jitaru <jitaru_marian@network.elanco.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
